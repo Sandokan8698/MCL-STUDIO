@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as Chartist from 'chartist';
+import {ApiRequesterComponent} from '../../../components/api-requester/api-requester.component';
+
 
 @Component({
   selector: 'app-dashboard',
